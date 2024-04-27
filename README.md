@@ -1,21 +1,12 @@
 # SQWorks-MMAC
-## Reference
-```
-@inproceedings{hou2023towards,
-  title={Towards Label-Efficient Deep Learning for Myopic Maculopathy Classification},
-  author={Hou, Junlin and Xu, Jilan and Xiao, Fan and Zhang, Bo and Xu, Yiqian and Zhang, Yuejie and Zou, Haidong and Feng, Rui},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={31--45},
-  year={2023},
-  organization={Springer}
-}
+This project is for the task1 in the the MICCAI 2023 Myopic Maculopathy Analysis Challenge.
 
-@inproceedings{xiao2023ensemble,
-  title={Ensemble Deep Learning Approaches for Myopic Maculopathy Plus Lesions Segmentation},
-  author={Xiao, Fan and Hou, Junlin and Xu, Jilan and Xu, Yiqian and Zhang, Bo and Zhang, Yuejie and Zou, Haidong and Feng, Rui},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={46--55},
-  year={2023},
-  organization={Springer}
-}
+To train a ResNet18 model:
 ```
+python main.py --model resnet18 --visname resnet18
+```
+The models ResNet18, ResNet50, EfficientNet-B0, EfficientNet-B1, EfficientNet-B1 and EfficientNet-B0 are included in this project.
+## Others
+The codes are mainly adapted from [https://github.com/FDU-VTS/MMAC]('https://github.com/FDU-VTS/MMAC')
+## Reference
+
