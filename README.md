@@ -1,6 +1,6 @@
 # SQWorks-MMAC
 ## Reference
-...
+```
 @inproceedings{hou2023towards,
   title={Towards Label-Efficient Deep Learning for Myopic Maculopathy Classification},
   author={Hou, Junlin and Xu, Jilan and Xiao, Fan and Zhang, Bo and Xu, Yiqian and Zhang, Yuejie and Zou, Haidong and Feng, Rui},
@@ -18,4 +18,4 @@
   year={2023},
   organization={Springer}
 }
-...
+```
