@@ -7,6 +7,6 @@ python main.py --model resnet18 --visname resnet18
 ```
 The models ResNet18, ResNet50, EfficientNet-B0, EfficientNet-B1, EfficientNet-B1 and EfficientNet-B0 are included in this project.
 ## Others
-The codes are mainly adapted from [https://github.com/FDU-VTS/MMAC]('https://github.com/FDU-VTS/MMAC')
+The codes are mainly adapted from [https://github.com/FDU-VTS/MMAC](https://github.com/FDU-VTS/MMAC)
 ## Reference
 
